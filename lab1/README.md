@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rastoru/The-Basics-of-Artificial-Intelligence/blob/main/lab1/notebooks/lab1.ipynb)
-
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Растатуров Виктор Васильевич 
@@ -18,10 +16,3 @@
 2. Включить окружение: .venv\Scripts\activate (macOS и Linux: source .venv/bin/activate)
 3. Установить библиотеки: pip install -r requirements.txt
 4. Открыть notebooks/lab1.ipynb в VS Code и выбрать ядро .venv
-
-| | VS Code | Colab |
-|---|---|---|
-| Версия Python | 3.12.0 | 3.13.18 |
-| Версия pandas |3.1.1 |2.2.3 |
-| Где хранятся файлы |на моем пк в папке  |на сервере Google, удаляются при отключении |
-| Что потребовалось для запуска |Установка Python, Git, VS Code с расширениями, окружение .venv и установка библиотек |Браузер и аккаунт Google |
